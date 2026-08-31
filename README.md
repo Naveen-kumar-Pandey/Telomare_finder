@@ -92,6 +92,7 @@ Contains:
 ## Example
 
 #bash
+
 python telomere_pipeline.py \
 -i Arabidopsis.fa \
 -m TTTAGGG,CCCTAAA
