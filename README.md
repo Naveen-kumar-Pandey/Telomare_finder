@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 Genome FASTA:
 
-fasta \
+fasta 
 >Chr1\
 ATGC...\
 >Chr2\
