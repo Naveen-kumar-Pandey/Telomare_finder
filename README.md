@@ -26,9 +26,9 @@ seaborn >=0.13.2
 ## Installation
 
 bash
-git clone https://github.com/username/telomere-motif-pipeline.git
+git clone https://github.com/Naveen-kumar-Pandey/Telomare_finder.git
 
-cd telomere-motif-pipeline
+cd Telomare_finder
 
 pip install -r requirements.txt
 
