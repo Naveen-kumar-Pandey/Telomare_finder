@@ -42,9 +42,9 @@ Genome FASTA:
 
 fasta
 
->Chr1
+">"Chr1
 ATGC...
->Chr2
+">"Chr2
 ATGC...
 
 
